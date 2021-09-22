@@ -1,0 +1,40 @@
+<iplteam>
+ <team>
+  <team-name>RCB</team-name>
+  <teamplayers>
+   <p>VIRAT</p>
+   <p>ABD</p>
+  </teamplayers> 
+ </team>
+
+ <team>
+ <team-name>MI</team-name>
+  <teamplayers>
+   <p>ROHIT</p>
+   <p>POLLARD</p>
+  </teamplayers>
+ </team>
+
+ <team>
+ <team-name>CSK</team-name>
+  <teamplayers>
+   <p>DHONI</p>
+   <p>RAINA</p>
+  </teamplayers>
+ </team>
+
+<team>
+ <team-name>KKR</team-name>
+<teamplayers>
+<p>RUSSEL</p>
+<p>KARTHIK</p>
+</teamplayers>
+</team>
+
+</iplteam>
+
+
+
+	
+
+

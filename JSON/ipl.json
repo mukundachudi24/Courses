@@ -1,0 +1,20 @@
+{
+	"iplteam": {
+		"team": {
+			"team-name": {
+				"RCB": {
+					"teamplayers": ["VIRAT", "ABD"]
+
+				},
+				"MI": {
+					"teamplayers": ["ROHIT", "POLLARD"]
+
+				},
+				"KKR": {
+					"teamplayers": ["RUSSEL", "KARTHIK"]
+
+				}
+			}
+		}
+	}
+}
